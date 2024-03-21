@@ -25,7 +25,7 @@
 	} else if(point>=60){
 		hak = "양";
 	} else {
-		hak = "집에가";
+		hak = "가";
 	}
 %>
 <ul>
